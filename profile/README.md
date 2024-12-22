@@ -1,4 +1,4 @@
-# TechEase Solutions
+# Codemelon
 
 > Making Technology Accessible to Everyone
 
